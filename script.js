@@ -33,6 +33,10 @@ document.addEventListener('DOMContentLoaded', function() {
         window.open(`epubs/${book.epub}`, '_blank');
     });
 
+    bookImage.addEventListener('click', function() {
+        window.open(`epubs2/${book.epub}`, '_blank');
+    });
+
     bookDiv.appendChild(bookImage);
     bookDiv.appendChild(bookInfo);
 
