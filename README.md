@@ -16,3 +16,5 @@
 ## 🔗 Links
 - Link do Site Hospedado pelo GitHub Pages: https://beatrizrodrgss.github.io/biblioteca-publica-book-teca/
 
+## Imagem do Site já Hospedado:
+![bookteca](images/readme.book.png)
