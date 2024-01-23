@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #bd3434;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    font-family: 'Playfair Display', serif; 
+}
+
+#book-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.book {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 15px;
+    width: 200px;
+}
+
+.book img {
+    max-width: 100%;
+    height: auto;
+}
+
+#spotify-playlist {
+    text-align: center; 
+    margin-top: 20px; 
+}
+
+.spotify-widget {
+    display: inline-block;
+}
+
