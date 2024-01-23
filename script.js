@@ -8,7 +8,6 @@ document.addEventListener('DOMContentLoaded', function() {
         { title: 'Construindo API REST com Node JS', author: 'Casa do Código', cover: 'nodejs.jpg', epub: 'Construindo API REST com Node JS.epub' },
         { title: 'Controlando Versões com Git e GitHub', author: 'Casa do Código', cover: 'git.jpg', epub: 'Controlando Versões com Git e GitHub.epub' },
         { title: 'Entendendo Algoritmos - Um Guia Ilustrado para Programadores e Curiosos', author: 'Aditya Bhargava', cover: 'entenalg.jpg', epub: 'Entendendo-Algoritmos-Um-Guia-Ilustrado-Para-Programadores-e-Outros-Curiosos.epub' },
-        { title: 'Expressões Regulares - uma abordagem divertida', author: 'Aurelio Marinho', cover: 'expressoes.jpg', epub: 'Expressões Regulares - uma abordagem divertida.epub' },
         { title: 'Jenkins - Automatize Tudo sem Complicações', author: 'Casa do Código', cover: 'Jenkins.jpg', epub: 'Jenkins - Automatize Tudo sem Complicações.epub' },
         { title: 'TDD - Desenvolvimento Guiado por Testes', author: 'Ken Beck', cover: 'tddken.jpg', epub: 'TDD - Desenvolvimento Guiado por Testes.epub' },
         { title: 'Test-Driven Development - Teste e Design no Mundo Real', author: 'Casa do Código', cover: 'Test-Driven.jpg', epub: 'Test-Driven Development - Teste e Design no Mundo Real.epub' },
